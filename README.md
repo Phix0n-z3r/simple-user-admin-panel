@@ -1,5 +1,7 @@
 # Simple User Admin Panel
 
+[نسخه فارسی](FA-README.md)
+
 <p align="center">
   <img src="assets/demo.jpg" alt="Demo Screenshot" width="600"/>
 </p>
@@ -61,3 +63,8 @@ dotnet ef database update
 
 # Run the app
 dotnet run
+---
+
+<p align="center" style="color:gray; font-size:small; margin-top: 20px;">
+  Noob days
+</p>
