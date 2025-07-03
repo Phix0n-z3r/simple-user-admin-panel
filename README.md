@@ -40,9 +40,8 @@ If you need assistance or a sample database, feel free to contact me via GitHub 
 | Layer        | Technology           |
 |--------------|----------------------|
 | Backend      | .NET Framework 4.8   |
-| ORM          | Entity Framework 6.x |
 | Database     | SQL Server           |
-| UI           | Web Forms |
+| UI           | Web Forms            |
 
 ---
 
