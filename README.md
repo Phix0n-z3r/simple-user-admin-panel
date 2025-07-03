@@ -63,6 +63,7 @@ dotnet ef database update
 
 # Run the app
 dotnet run
+```
 ---
 
 <p align="center" style="color:gray; font-size:small; margin-top: 20px;">
