@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# Logs & DB
+*.log
+*.db
+*.sqlite
